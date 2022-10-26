@@ -1,22 +1,26 @@
-2022-10-27 00:30:32.337 - INFO ---[           main] com.example.wiki.WikiApplication         : Starting WikiApplication using Java 1.8.0_341 on LAPTOP-7A7BNNPO with PID 271212 (C:\Users\hei\Desktop\wiki\target\classes started by hei in C:\Users\hei\Desktop\wiki)
+2022-10-27 00:53:37.750 - INFO ---[           main] com.example.wiki.WikiApplication         : Starting WikiApplication using Java 1.8.0_341 on LAPTOP-7A7BNNPO with PID 279684 (C:\Users\hei\Desktop\wiki\target\classes started by hei in C:\Users\hei\Desktop\wiki)
 
-2022-10-27 00:30:32.340 - INFO ---[           main] com.example.wiki.WikiApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-10-27 00:53:37.752 - INFO ---[           main] com.example.wiki.WikiApplication         : No active profile set, falling back to 1 default profile: "default"
 
-2022-10-27 00:30:33.622 - INFO ---[           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-10-27 00:53:38.538 - INFO ---[           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
 
-2022-10-27 00:30:33.630 - INFO ---[           main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-27 00:53:38.544 - INFO ---[           main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
 
-2022-10-27 00:30:33.631 - INFO ---[           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-27 00:53:38.545 - INFO ---[           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
 
-2022-10-27 00:30:33.631 - INFO ---[           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-10-27 00:53:38.545 - INFO ---[           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
 
-2022-10-27 00:30:33.751 - INFO ---[           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-27 00:53:38.647 - INFO ---[           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
 
-2022-10-27 00:30:33.752 - INFO ---[           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1374 ms
+2022-10-27 00:53:38.648 - INFO ---[           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 858 ms
 
-2022-10-27 00:30:34.060 - INFO ---[           main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2022-10-27 00:53:38.853 - INFO ---[           main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
 
-2022-10-27 00:30:34.080 - INFO ---[           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-27 00:53:38.865 - INFO ---[           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
 
-2022-10-27 00:30:34.091 - INFO ---[           main] com.example.wiki.WikiApplication         : Started WikiApplication in 2.197 seconds (JVM running for 3.786)
+2022-10-27 00:53:38.872 - INFO ---[           main] com.example.wiki.WikiApplication         : Started WikiApplication in 1.508 seconds (JVM running for 2.55)
+
+2022-10-27 00:53:38.874 - INFO ---[           main] com.example.wiki.WikiApplication         : 启动成功！！
+
+2022-10-27 00:53:38.874 - INFO ---[           main] com.example.wiki.WikiApplication         : 地址：	http://127.0.0.1:8080
 
