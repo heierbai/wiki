@@ -1,4 +1,4 @@
-logs/
+logs/APP_NAME_IS_UNDEFINED/
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
